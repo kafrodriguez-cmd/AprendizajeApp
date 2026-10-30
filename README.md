@@ -2,7 +2,7 @@
 
 Aplicación Android en **Kotlin** con arquitectura **MVC** que consume una **API REST dinámica (MockAPI.io)** mediante **Retrofit**. Incluye autenticación con roles (Estudiante / Docente), CRUD de recursos, búsqueda, favoritos y sistema de calificación.
 
-**Alumno:** [Tu Nombre Completo]  
+**Alumno:** Kevin Alexander Figueroa Rodriguez 
 **Materia:** Desarrollo de Software para Móviles – DSM  
 **Universidad:** Universidad Don Bosco  
 
@@ -111,11 +111,10 @@ const val BASE_URL = "https://TU_PROJECT_ID.mockapi.io/api/"
 
 ## Video de defensa
 
-[Coloca aquí la URL de tu video]
-
+https://drive.google.com/file/d/1N7eCBURCpOibnGVYQcPkTiprNFne6Xsq/view?usp=sharing
 ---
 
 ## Autor
 
-**[Tu Nombre Completo]**  
+**KEVIN ALEXANDER FIGUEROA RODRIGUEZ**  
 Universidad Don Bosco – DSM 2026
