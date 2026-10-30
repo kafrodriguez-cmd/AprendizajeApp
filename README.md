@@ -71,12 +71,12 @@ com.example.aprendizajeapp/
 | promedioRating | Number |
 | totalRatings | Number |
 
-3. Copia la **Base URL** (ejemplo: `https://66240d4504457d4aaf9b8530.mockapi.io/api/`)
+3. Copia la **Base URL**
 4. Pégala en:
 
 ```kotlin
 // util/Constants.kt
-const val BASE_URL = "https://TU_PROJECT_ID.mockapi.io/api/"
+const val BASE_URL = "https://TU_PROJECT_ID.mockapi.io/api/](https://6ae26992bbb541292299eee6.mockapi.io/"
 ```
 
 5. (Opcional) Agrega 2–3 recursos de ejemplo desde el panel de MockAPI.
