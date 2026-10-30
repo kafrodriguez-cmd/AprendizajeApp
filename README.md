@@ -76,7 +76,7 @@ com.example.aprendizajeapp/
 
 ```kotlin
 // util/Constants.kt
-const val BASE_URL = "https://TU_PROJECT_ID.mockapi.io/api/](https://6ae26992bbb541292299eee6.mockapi.io/"
+const val BASE_URL = "https://6ae26992bbb541292299eee6.mockapi.io/"
 ```
 
 5. (Opcional) Agrega 2–3 recursos de ejemplo desde el panel de MockAPI.
