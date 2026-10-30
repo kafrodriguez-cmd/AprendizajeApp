@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AprendizajeApp</string>
+    <string name="welcome_message">¡Bienvenido a AprendizajeApp!</string>
+
+    <!-- Auth -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="go_to_register">¿No tienes cuenta? Regístrate</string>
+    <string name="go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="rol_label">Rol</string>
+    <string name="rol_estudiante">Estudiante</string>
+    <string name="rol_docente">Docente</string>
+
+    <!-- Recursos -->
+    <string name="catalogo_title">Recursos de aprendizaje</string>
+    <string name="favoritos_title">Mis favoritos</string>
+    <string name="add_recurso">Agregar recurso</string>
+    <string name="edit_recurso">Editar recurso</string>
+    <string name="hint_titulo">Título del recurso</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_tipo">Tipo</string>
+    <string name="hint_enlace">Enlace (URL)</string>
+    <string name="hint_imagen">URL de la imagen</string>
+    <string name="hint_buscar">Buscar por título, tipo o ID…</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="confirmar_eliminar">¿Eliminar este recurso?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="sin_recursos">No hay recursos disponibles</string>
+    <string name="sin_favoritos">No tienes favoritos aún</string>
+    <string name="agregar_favorito">Agregar a favoritos</string>
+    <string name="quitar_favorito">Quitar de favoritos</string>
+    <string name="calificar">Calificar</string>
+    <string name="abrir_enlace">Abrir enlace</string>
+    <string name="filtrar_tipo">Filtrar por tipo</string>
+    <string name="todos">Todos</string>
+
+    <!-- Mensajes -->
+    <string name="campos_obligatorios">Todos los campos son obligatorios</string>
+    <string name="error_general">Ocurrió un error. Intenta de nuevo</string>
+    <string name="exito_guardar">Recurso guardado correctamente</string>
+    <string name="exito_actualizar">Recurso actualizado correctamente</string>
+    <string name="exito_eliminar">Recurso eliminado correctamente</string>
+    <string name="exito_favorito">Agregado a favoritos</string>
+    <string name="exito_rating">¡Gracias por tu calificación!</string>
+    <string name="cargando">Cargando…</string>
+    <string name="solo_docente">Solo los docentes pueden realizar esta acción</string>
+
+    <string-array name="tipos_recurso">
+        <item>Seleccione un tipo</item>
+        <item>libro</item>
+        <item>video</item>
+        <item>articulo</item>
+        <item>tutorial</item>
+    </string-array>
+
+    <string-array name="filtro_tipos">
+        <item>Todos</item>
+        <item>libro</item>
+        <item>video</item>
+        <item>articulo</item>
+        <item>tutorial</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>estudiante</item>
+        <item>docente</item>
+    </string-array>
+</resources>
